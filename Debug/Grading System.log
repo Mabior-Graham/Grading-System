@@ -1,0 +1,11 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(1893,20): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(1931,19): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(1964,19): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(1997,19): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(2027,19): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(2072,21): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(2176,19): warning C4101: 'MyReader': unreferenced local variable
+C:\Users\user\Desktop\Mabior's codes\Grading System\Form1.h(2203,23): warning C4101: 'MyReader': unreferenced local variable
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Grading System.vcxproj -> C:\Users\user\Desktop\Mabior's codes\Grading System\Debug\Grading System.exe

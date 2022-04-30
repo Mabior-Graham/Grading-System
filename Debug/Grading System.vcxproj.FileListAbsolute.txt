@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Mabior's codes\Grading System\Debug\Grading System.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Mabior's codes\Grading System\Debug\Grading_System.Form1.resources
+C:\Users\user\Desktop\Mabior's codes\Grading System\Debug\Grading System.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Mabior's codes\Grading System\Debug\Grading System.exe
+C:\Users\user\Desktop\Mabior's codes\Grading System\Debug\MySql.Data.dll
